@@ -4,6 +4,8 @@
 
 # 文件介绍
 
+- `Example.pdf`示例文件
+
 - `testctex.tex`模板的主文件
 - `bibtest.bib`参考文献库
 - `figures`图片文件夹
